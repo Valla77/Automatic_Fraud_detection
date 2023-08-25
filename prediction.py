@@ -60,7 +60,7 @@ def prediction(data):
     # utiliser le scaler pour effectuer une prédiction
     X = scaler.transform(X)
     # Load the model from the .joblib file
-    model_RFS = joblib.load('https://storage.googleapis.com/fraud-detector-dataset/RF_SMOTE1.joblib')
+    model_RFS = joblib.load('https://storage.googleapis.com/jedha-projects/RF_SMOTE1.pkl')
     # with open('RF_SMOTE1.pkl', 'rb') as f_model:
     #     model_RFS = joblib.load(f_model)
     y_test_pred = model_RFS.predict(X)
