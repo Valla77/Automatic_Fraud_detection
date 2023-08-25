@@ -1,7 +1,8 @@
 # Automatic Fraud Detection Project
 -----------------------------------------------------------------------------------------------------------------------------
 
-*This project is a part of my Jedha Data Lead program certification*
+This project has been presented as part of my Machine Learning Engineer certificate for the Jedha Data Fullstack program.
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Context 📇
