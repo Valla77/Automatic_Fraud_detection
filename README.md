@@ -30,4 +30,4 @@ Our goal as a team of Machine Learning Engineers is to:
 
 ## Video presentation 
 
-https://share.vidyard.com/watch/iFqNEMzxWx3ntH4YidEASD?/
+https://share.vidyard.com/watch/z8s6Jyxq5qcPgC1xCbkx5d?
